@@ -1,0 +1,42 @@
+generated: '2026-09-19'
+method: searched
+probe: true
+source: https://airwavz.com/
+note: >-
+  Harvest only. Airwavz Solutions publishes a WordPress marketing site (solutions, industries, case studies,
+  news, careers, contact, a Hyperwavz managed Wi-Fi support form) and no docs, trust, security, or legal
+  sub-site. The page sitemap (https://airwavz.com/page-sitemap.xml) lists 26 pages and none of them is a
+  privacy policy, terms of service, accessibility statement, subprocessor list, DPA, or transparency page.
+  Conventional paths probed live on 2026-09-19 all returned 404: /privacy-policy, /privacy, /terms,
+  /terms-of-use, /terms-and-conditions, /legal, /security, /accessibility, /accessibility/vpat,
+  /legal/subprocessors, /legal/dpa, /privacy/requests, /transparency, /security/sbom, /docs/data-residency,
+  /ai/transparency, /legal/report-content. No signal carries the required substance, so none is recorded.
+  Global Privacy Control is not mentioned anywhere on the site, so global_privacy_control is NOT recorded.
+signals: {}
+probed:
+- url: https://airwavz.com/privacy-policy/
+  status: 404
+- url: https://airwavz.com/terms/
+  status: 404
+- url: https://airwavz.com/legal
+  status: 404
+- url: https://airwavz.com/accessibility/
+  status: 404
+- url: https://airwavz.com/accessibility/vpat
+  status: 404
+- url: https://airwavz.com/legal/subprocessors
+  status: 404
+- url: https://airwavz.com/legal/dpa
+  status: 404
+- url: https://airwavz.com/privacy/requests
+  status: 404
+- url: https://airwavz.com/transparency
+  status: 404
+- url: https://airwavz.com/security/sbom
+  status: 404
+- url: https://airwavz.com/docs/data-residency
+  status: 404
+- url: https://airwavz.com/ai/transparency
+  status: 404
+- url: https://airwavz.com/legal/report-content
+  status: 404

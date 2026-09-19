@@ -1,0 +1,57 @@
+# Airwavz Solutions
+
+> Airwavz Solutions designs, builds, owns, and operates in-building wireless infrastructure for property owners across the United States.
+
+Airwavz serves commercial office, healthcare, hospitality, multifamily, and event venue properties nationwide, with over 154 million square feet under agreement. Founded in 2013 and headquartered in Charlotte, NC, with regional offices in Atlanta, Houston, and Dallas.
+
+## Key Facts
+- **Venue-funded model:** Airwavz funds, designs, installs, owns, and operates the wireless system—typically with no upfront capital cost for building owners.
+- **Neutral-host:** One shared infrastructure supports all major wireless carriers (AT&T, Verizon, T-Mobile) simultaneously.
+- **Carrier Partnerships:** Master License Agreements (MLA) and Master Service Agreements (MSA) are in place with all three national carriers.
+- **Operations:** Every system includes 24/7/365 proactive monitoring, remote diagnostics, and guaranteed performance standards.
+- **Contact:** +1-833-AIRWAVZ (247-9289) | info@airwavz.com
+
+## Solutions
+- [Cellular (DAS)](https://airwavz.com): Neutral-host distributed antenna systems delivering carrier-grade indoor cellular coverage for all major carriers, engineered for 4G LTE and 5G.
+- [Public Safety (ERRCS)](https://airwavz.com): Emergency Responder Radio Communication Systems designed to pass AHJ testing and inspections.
+- [Wi-Fi](https://airwavz.com): Managed Wi-Fi networks for tenants, guests, and building operations.
+- [Fiber](https://airwavz.com): Core fiber backbone providing converged infrastructure for cellular, Wi-Fi, and smart building applications.
+- [Smart Networks](https://airwavz.com): Secure private wireless networks supporting IoT and smart building systems, designed for 5G and beyond.
+- [Wireless Carriers](https://airwavz.com): Details on how Airwavz partners with wireless carriers, building owners, and developers.
+
+## Industries
+- [Commercial Office](https://airwavz.com): In-building wireless for Class A office and multi-tenant commercial real estate.
+- [Healthcare](https://airwavz.com): Cellular, public safety, and Wi-Fi infrastructure for hospitals and healthcare systems, supporting clinical communication.
+- [Hospitality](https://airwavz.com): Wireless connectivity for hotels and resorts.
+- [Multifamily](https://airwavz.com): Connectivity for apartment and residential communities.
+- [Event Venues](https://airwavz.com): High-capacity wireless for stadiums and event spaces.
+
+## Case Studies
+- [Memorial City](https://airwavz.com): 9M+ sq ft mixed-use campus in Houston, TX (Class A office, hospitality, retail, medical, multifamily).
+- [Ballantyne Corporate Park](https://airwavz.com): Corporate campus in Charlotte, NC.
+- [Cypress Waters](https://airwavz.com): Mixed-use development in Dallas, TX.
+
+## Company Information
+- [About Airwavz](https://airwavz.com): Company history and leadership. David Herran is CEO; Joe Perrigo is COO.
+- [Our Team](https://airwavz.com): Executive team and market advisory board.
+- [News + Resources](https://airwavz.com): Press releases, case studies, and educational articles.
+- [Careers](https://airwavz.com): Open positions.
+- [Contact](https://airwavz.com): Regional offices and contact forms. 
+  - *Charlotte HQ:* 1410 W Morehead St Ste 100
+  - *Atlanta:* 3525 Piedmont Rd NE
+  - *Houston:* 9807 Katy Fwy Ste 110
+  - *Dallas:* 5050 Quorum Dr Ste 700
+
+## Resources & Guides
+- [Top Wireless Acronyms You Need to Know](https://airwavz.com): Glossary of in-building wireless terms (DAS, ERRCS, CBRS, neutral host).
+- [Why Wi-Fi Isn't Enough for Healthcare](https://airwavz.com): Why hospitals need cellular infrastructure in addition to Wi-Fi.
+llms
+
+
+ 
+
+
+
+ 
+
+ 

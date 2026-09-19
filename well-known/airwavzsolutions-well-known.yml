@@ -1,0 +1,66 @@
+generated: '2026-09-19'
+method: probed
+source: live GET of the named /.well-known/ path list on every host this record knows
+hit_count: 0
+note: 'Airwavz Solutions has no API host: the only hosts the record knows are the registrable domain airwavz.com (a
+  WordPress marketing site) and www.airwavz.com, which 301s every path to the apex. Every named discovery path
+  returned HTTP 404 on airwavz.com, and the negative-control path also returned 404, so these are true absences
+  and not a path-echoing or SPA catch-all. /apis.json and /apis.yml returned 403 (a WordPress/WPForms edge rule on
+  bare file paths, not a served document). No WellKnown or SecurityTxt pointer is emitted: this file records an
+  absence, not a served surface. The one AI-discovery document the site does serve is /llms.txt (200, text/plain),
+  recorded under llms/.'
+hosts:
+- host: https://airwavz.com
+  path_echo_control: passed
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/oauth-protected-resource
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /.well-known/agent-card.json
+    status: 404
+  - path: /.well-known/agent.json
+    status: 404
+  - path: /.well-known/mcp.json
+    status: 404
+  - path: /.well-known/apis.json
+    status: 404
+  - path: /apis.json
+    status: 403
+  - path: /apis.yml
+    status: 403
+  - path: /llms.txt
+    status: 200
+    file: ../llms/airwavzsolutions-llms.txt
+    note: served text/plain, saved verbatim under llms/; not a /.well-known/ document
+  - path: /.well-known/airwavz-negative-control-9c1f2e.json
+    status: 404
+    control: true
+- host: https://www.airwavz.com
+  path_echo_control: passed
+  note: every path 301s to https://airwavz.com/<path>; the apex results above are authoritative
+  documents:
+  - path: /.well-known/security.txt
+    status: 301
+  - path: /.well-known/openid-configuration
+    status: 301
+  - path: /.well-known/oauth-authorization-server
+    status: 301
+  - path: /.well-known/oauth-protected-resource
+    status: 301
+  - path: /.well-known/api-catalog
+    status: 301
+  - path: /.well-known/ai-plugin.json
+    status: 301
+  - path: /.well-known/agent-card.json
+    status: 301
+  - path: /.well-known/agent.json
+    status: 301
