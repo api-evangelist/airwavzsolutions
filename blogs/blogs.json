@@ -1,0 +1,14 @@
+{
+  "repo": "airwavzsolutions",
+  "feeds": [
+    {
+      "source": "https://airwavz.com/news-highlights/",
+      "feed_url": "https://airwavz.com/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-09-19T20:17:39Z"
+}
